@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-config-prettier"
+  ],
+  "rules": {
+    "variable-name": ["allow-leading-underscore"],
+    "object-literal-sort-keys": false
+  }
+}
