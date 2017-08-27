@@ -1,5 +1,5 @@
 {
-  "name": "@reynolds/js-cqs",
+  "name": "@timreynolds/js-cqs",
   "version": "1.0.0",
   "description": "TypeScript Command Query Separation Types",
   "main": "dist/index.js",
