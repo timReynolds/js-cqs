@@ -1,8 +1,9 @@
 {
-  "name": "@timreynolds/js-cqs",
+  "name": "@timreynolds/cqs",
   "version": "1.0.0",
   "description": "TypeScript Command Query Separation Types",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "private": false,
   "repository": {
     "type": "git",
