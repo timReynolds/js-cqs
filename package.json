@@ -31,7 +31,7 @@
     "@types/node": "8.10.19",
     "coveralls": "3.0.1",
     "husky": "0.14.3",
-    "jest": "20.0.4",
+    "jest": "23.1.0",
     "lint-staged": "7.2.0",
     "prettier": "1.13.5",
     "rimraf": "2.6.2",
