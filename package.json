@@ -1,6 +1,6 @@
 {
   "name": "@timreynolds/cqs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TypeScript Command Query Separation Types",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
