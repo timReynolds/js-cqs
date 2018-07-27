@@ -27,7 +27,7 @@
   "author": "Tim Reynolds",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "23.1.6",
+    "@types/jest": "23.3.1",
     "@types/node": "10.5.2",
     "coveralls": "3.0.2",
     "husky": "0.14.3",
